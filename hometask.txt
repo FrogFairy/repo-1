@@ -1,0 +1,9 @@
+2) В ветке master в файле README есть фраза "with nice buttons on his jacket (buttons branch)" в отличии от удаленной ветки demo
+4) 8 коммитов: "init";
+	       "heat added";
+	       "boots";
+               "README added";
+               "dots";
+               "fix readme";
+               "Merge remote-tracking branches 'origin/boots' and 'origin/buttons' in to boots_buttons"
+               "Merge branch 'boots_buttons', remote-tracking branch 'origin/hat'"
